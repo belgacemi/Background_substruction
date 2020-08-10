@@ -5,7 +5,7 @@ Background substruction using a Gaussian Mixure Model
 There are 2 ways to use this program:
 
 First method: Simply directly start the challenge.m file. When the program is used this way it will use the config file automatically.
-The scene path "src" is set to use the \P1E_S1 folder. So if the user choose the use the default values with config please have the folder
+The scene path "src" is set to use the \P1E_S1 folder. So if you choose the default values with config please have the folder
 \P1E_S1 set in the folder containing the matlab program .
 
 Second method: Type the command start_gui which will start the gui
